@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **arthur.capistrano12@gmail.com**
 
-<br><br>
-
 - 📄 Know about me: I am a Computer Science student at @ CESAR School passionate about the practical application of data and its problem-solving capabilities. I'm seeking opportunities to apply my enthusiasm and drive my learning in the field of data.
 
 <h3 align="left">Connect with me:</h3>
