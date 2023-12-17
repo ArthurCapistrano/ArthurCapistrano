@@ -1,6 +1,6 @@
-![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Data_Analyst_Science_LandingPage.jpg/a11a2554-7ce8-7054-20a3-8320881b80c8?t=1618902868781)
-<h1 align="center">Hi 👋, I'm Arthur Capistrano</h1>
-<h3 align="center">Computer Science Student @ CESAR School | Passionate about Data | Seeking Entry-Level Opportunities</h3>
+![LinkedIn banner profissional verde com linhas (1)](https://github.com/ArthurCapistrano/ArthurCapistrano/assets/142551407/10af8b9b-38e2-4d5e-b144-32b9830e9088)
+<h1 align="left">Hi 👋, I'm Arthur Capistrano</h1>
+<h3 align="left">Computer Science Student @ CESAR School | Passionate about Data | Seeking Entry-Level Opportunities</h3>
 <img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurcapistrano&label=Profile%20views&color=0e75b6&style=flat" alt="arthurcapistrano" /> </p>
