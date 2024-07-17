@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estou **focado em melhorar meus conhecimentos voltados a área de dados, especialmente para Machine Learning**. Entretanto, ainda com olhos atentos à área como um todo, buscando conhecimentos em conteúdos como SQL, Pandas, Seaborn, Sklearn, Data Cleaning, Análise exploratória de Dados, etc.
 
-- 👨‍💻 Todos os meus **projetos estão disponíveis** neste prórpio github [https://github.com/ArthurCapistrano](https://github.com/ArthurCapistrano)
+- 👨‍💻 Todos os meus **projetos estão disponíveis** neste próprio github [https://github.com/ArthurCapistrano](https://github.com/ArthurCapistrano)
 
 - 💬 **Mande mensagem sobre** **Python | Pandas | PostgreSQL | Numpy | Sklearn | ML**, sempre estou aberto a conversas
 
