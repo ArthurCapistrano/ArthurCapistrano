@@ -1,19 +1,30 @@
 ![LinkedIn banner profissional verde com linhas (1)](https://github.com/ArthurCapistrano/ArthurCapistrano/assets/142551407/10af8b9b-38e2-4d5e-b144-32b9830e9088)
 <h1 align="left">👋 Me chamo Arthur Capistrano</h1>
 <h3 align="left">Computer Science Student @ CESAR School | Passionate about Data | Seeking Entry-Level Opportunities</h3>
-<img align="right" alt="Coding" width="400" src="https://www.caxsol.com/assets/img/data-analysis.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurcapistrano&label=Profile%20views&color=0e75b6&style=flat" alt="arthurcapistrano" /> </p>
 
 - 🔭 Atualmente estou **focado em melhorar meus conhecimentos voltados a área de dados, especialmente para Machine Learning**. Entretanto, ainda com olhos atentos à área como um todo, buscando conhecimentos em conteúdos como SQL, Pandas, Seaborn, Sklearn, Data Cleaning, Análise exploratória de Dados, etc.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis neste prórpio github [https://github.com/ArthurCapistrano](https://github.com/ArthurCapistrano)
+- 👨‍💻 Todos os meus **projetos estão disponíveis** neste prórpio github [https://github.com/ArthurCapistrano](https://github.com/ArthurCapistrano)
 
-- 💬 Mande mensagem sobre **Python | Pandas | PostgreSQL | Numpy | Sklearn | ML**, sempre estou aberto a conversas
+- 💬 **Mande mensagem sobre** **Python | Pandas | PostgreSQL | Numpy | Sklearn | ML**, sempre estou aberto a conversas
 
-- 📫 Me contate através: **arthur.capistrano12@gmail.com**
+- 📫 **Me contate através**: **arthur.capistrano12@gmail.com**
 
-- 📄 Um pouco sobre mim: Sou um estudante de Ciências da Computação pela @ CESAR School. Faço parte do grupo de que se vê maravilhado pela forma como os dados cercam nossa vida e como, através deles, empresas podem encontrar as melhores decisões para seu futuro. Atualmente, continuo estudando e procurando a 1° oportunidade para engressar nesta área!
+- 📄 **Um pouco sobre mim**: Sou um estudante de Ciências da Computação pela @ CESAR School. Faço parte do grupo de que se vê maravilhado pela forma como os dados cercam nossa vida e como, através deles, empresas podem encontrar as melhores decisões para seu futuro. Atualmente, continuo estudando e procurando a 1° oportunidade para engressar nesta área!
+
+- 📚 **Cursos terminados**: <br>
+● Supervised Machine Learning: Regression and <br>
+Classification - DeepLearning.ai/Stanford; <br>
+● Data Analysis with Python - FreeCodeCamp; <br>
+● Python for Machine Learning and Data Science - Great Learning; <br>
+● Linguagem SQL para Análise de Dados (2024) - Udemy; <br>
+● Python 3 mundo 1, 2 e 3 - Curso em Vídeo; <br>
+● Git e Github - Curso em Vídeo; <br> 
+● Pandas, Advanced SQL, Data Visualization - Kaggle; <br>
+● EF SET English Certificate - EF SET org. <br>
 
 <h3 align="left">Se conecte comigo em:</h3>
 <p align="left">
