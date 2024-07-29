@@ -1,5 +1,5 @@
 ![LinkedIn banner profissional verde com linhas (1)](https://github.com/ArthurCapistrano/ArthurCapistrano/assets/142551407/10af8b9b-38e2-4d5e-b144-32b9830e9088)
-<h1 align="left">👋 Me chamo Arthur Capistrano</h1>
+<h1 align="left">👋 Olá! </h1>
 <h3 align="left">Computer Science Student @ CESAR School | Passionate about Data | Seeking Entry-Level Opportunities</h3>
 
 
