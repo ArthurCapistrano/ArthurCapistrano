@@ -19,6 +19,7 @@
 ● Supervised Machine Learning: Regression and <br>
 Classification - DeepLearning.ai/Stanford; <br>
 ● Data Analysis with Python - FreeCodeCamp; <br>
+● Introduction to Data Visualization with Matplotlib, Introduction to Data Visualization with Seaborn, Exploratory Data Analysis in Python, Data Manipulation with Pandas - DataCamp; <br>
 ● Python for Machine Learning and Data Science - Great Learning; <br>
 ● Linguagem SQL para Análise de Dados (2024) - Udemy; <br>
 ● Python 3 mundo 1, 2 e 3 - Curso em Vídeo; <br>
