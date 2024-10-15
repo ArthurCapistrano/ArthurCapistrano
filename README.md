@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurcapistrano&label=Profile%20views&color=0e75b6&style=flat" alt="arthurcapistrano" /> </p>
 
-- 🔭 Atualmente estou **focado em melhorar meus conhecimentos voltados a área de dados, especialmente para Machine Learning**. Entretanto, ainda com olhos atentos à área como um todo, buscando conhecimentos em conteúdos como SQL, Pandas, Seaborn, Sklearn, Data Cleaning, Análise exploratória de Dados, etc.
+- 🔭 Antes acostumado com a rotina de atendimentos como dentista, agora busco transição para a área de TI, com enfoque em dados. Estou **focado em melhorar meus conhecimentos voltados a área de dados, especialmente para Machine Learning**. Entretanto, ainda com olhos atentos à área como um todo, buscando conhecimentos em conteúdos como SQL, Pandas, Seaborn, Sklearn, Data Cleaning, Análise exploratória de Dados, etc.
 
 - 👨‍💻 Todos os meus **projetos estão disponíveis** neste próprio github [https://github.com/ArthurCapistrano](https://github.com/ArthurCapistrano)
 
