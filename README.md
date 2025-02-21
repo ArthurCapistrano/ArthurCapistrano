@@ -41,7 +41,7 @@
 
 <br/>
 
-<a href="https://medium.com/@arthur.capistrano12/marketing-e-estat%C3%ADstica-descubra-se-a-sua-campanha-realmente-impulsionou-as-vendas-b63a2c7587b4">
+<a href="https://medium.com/@arthur.capistrano12/sistemas-de-machine-learning-261d36ef0e4c">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*5MomdwSOXtxJ3e6UPaTp8w.jpeg" width="300"  height= '150' align="right" style="border-radius: 10px;">
 </a>
 
@@ -56,7 +56,7 @@
 
 <br/>
 
-<a href="https://medium.com/@arthur.capistrano12/marketing-e-estat%C3%ADstica-descubra-se-a-sua-campanha-realmente-impulsionou-as-vendas-b63a2c7587b4">
+<a href="https://medium.com/@arthur.capistrano12/efici%C3%AAncia-na-categoriza%C3%A7%C3%A3o-de-dados-com-o-pd-cut-comparando-abordagens-em-python-afc04402e5ab">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*sTdf2LIS0T1gbmrX" width="300" height= '150' align="right" style="border-radius: 10px;">
 </a>
 
