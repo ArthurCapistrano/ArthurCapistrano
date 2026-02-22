@@ -1,4 +1,3 @@
-![LinkedIn banner profissional verde com linhas (1)](https://media.licdn.com/dms/image/v2/D4D16AQG8uPX7kItxsQ/profile-displaybackgroundimage-shrink_350_1400/B4DZUbJaogHkAY-/0/1739917209195?e=1745452800&v=beta&t=T-jIQxNLCnR8ChsCjnHmjP1qIsya9ylrfcqHZoWlkbU)
 
 ###
 
@@ -6,7 +5,17 @@
 
 ###
 
-<p align="left">💡| Da odontologia para estudante de Ciências da Computação, estou fazendo a transição para a área de Data Science e Machine Learning.<br><br> Meu grande interesse pela área de dados surgiu enquanto observava dados de saúde em cidades do interior do meu estado, onde participei da coordenação de ações de saúde em áreas necessitadas.<br><br>📊 | Atualmente, busco me aprimorar em Aplicações Estatísticas, Análises Preditivas e Aprendizado Profundo (Deep Learning).<br><br>Além disso, conto com experiência em metodologias ágeis como: Scrum, Kanban e Pair Programming.<br><br>🔍 | Por fim, almejo me especializar em Tópicos de Visão Computacional, especialmente para problemas relacionados à área da saúde.
+<p align="left">Oi oi! 👋 Me chamo Arthur, e esse é um pouco sobre mim...
+
+💡| Da odontologia para a computação: descobri minha paixão por tecnologia ao analisar dados de saúde pública de prefeituras do interior do meu estado e planejar ações em saúde.
+
+🏗️ | Atualmente, sou Estagiário no CESAR, onde atuo na construção de estruturas de ETL, integração de bancos de dados MySQL e automação de fluxos para suporte à tomada de decisão. 
+
+📊 | Embora meu foco principal seja a Engenharia de Dados, utilizo minha base em Análise de Dados e Machine Learning para garantir que as pipelines que construo entreguem dados prontos para análises e dashboards (Tableau).
+
+⚙️ | No meu dia a dia, trabalho com: Python, SQL, Engenharia de Dados, ETL, EDA, Tableau e metodologias ágeis (Scrum, Kanban).
+
+🔍 | Meu objetivo é me especializar em arquiteturas de dados escaláveis, unindo a robustez da engenharia com a inteligência da ciência de dados para resolver problemas complexos, especialmente no setor de tecnologia e saúde.
 </p>
 
 ###
